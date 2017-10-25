@@ -1,9 +1,16 @@
 
+
+
+/*=======================================
+Template Design By MarkUps	
+Author URI : http://www.markups.io/
+========================================*/
+
 .mu-hero-overlay,
 .mu-video-overlay {
-	background-color: #ff8A54;/* fallback for old browsers */
+	background-color: #ff871c;/* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #64b3f4, #ff871c);  /* Chrome 10-25, Safari 5.1-6 */
-    background: #FF8A54; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background:  #FF8A54; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
 
@@ -29,7 +36,7 @@
 .mu-navbar .mu-menu li a:hover,
 .mu-navbar .mu-menu li a:focus,
 .mu-single-event .mu-event-time {
-	color: #FF8A54;
+	color: #ff871c;
 }
 
 .mu-speakers-slider .slick-next,
@@ -47,36 +54,40 @@
 .mu-schedule-menu li.active a,
 .mu-schedule-menu li.active a:hover,
 .mu-schedule-menu li.active a:focus {
-	background-color: #FF8A54;
+	background-color: #ff871c;
 }
 
 .mu-social-media a:hover,
 .mu-social-media a:focus {
-	border: 1px solid #FF8A54;
-	color: #FF8A54;
+	border: 1px solid #ff871c;
+	color: #ff871c;
 }
 
 .mu-contact-form .form-control:focus,
 .mu-schedule-menu li a {
-	border: 1px solid #FF8A54;    
+	border: 1px solid #ff871c;    
 } 
 
 .mu-send-msg-btn,
-.mu-send-msg-btn:focus,
 .mu-register-btn:hover,
 .mu-register-btn:focus,
 .mu-popular-price .mu-register-btn {
-	border: 1px solid #FF8A54;
-	background-color: #FF8A54;
+	border: 1px solid #ff871c;
+	background-color: #ff871c;
 }
 
 .mu-faq-content .panel-default > .panel-heading + .panel-collapse > .panel-body {
-	border-top-color: #FF8A54;
+	border-top-color: #ff871c;
 
 }
 
 .mu-reg-submit-btn:hover,
 .mu-reg-submit-btn:focus {
-	background-color: #FF8A54;
-	border: 2px solid #FF8A54;
+	background-color: #ff871c;
+	border: 2px solid #ff871c;
 }
+
+
+
+
+
