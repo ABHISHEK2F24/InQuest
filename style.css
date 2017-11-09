@@ -907,7 +907,7 @@ button:focus {
 }
 
 .mu-single-price ul {
-	list-style: none;
+	list-style: decimal;
 }
 
 .mu-single-price ul li{
