@@ -1,10 +1,5 @@
 
-/*
-Template Name: Eventoz	
-Author: MarkUps
-Author URI: http://www.markups.io/
-Version: 1.0
-*/
+
 
 
 /* Table of Content
@@ -872,7 +867,7 @@ button:focus {
 	float: left;
 	text-align: center;
 	position: relative;
-	width: 100%;
+	width: auto;
 	padding: 15px;
 	overflow: hidden;
 }
@@ -1494,6 +1489,7 @@ button:focus {
 
 	.mu-single-price {
 		margin-bottom: 30px;
+		width: auto;
 	}
 
 
