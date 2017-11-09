@@ -865,7 +865,7 @@ button:focus {
 	background-color: #f8f8f8;
 	display: inline;
 	float: left;
-	text-align: center;
+	text-align: left;
 	position: relative;
 	width: auto;
 	padding: 15px;
@@ -907,11 +907,11 @@ button:focus {
 }
 
 .mu-single-price ul {
-	list-style: decimal;
+	list-style: none;
 }
 
 .mu-single-price ul li{
-	list-style: decimal;
+	list-style: none;
 	color: #555;
 }
 
