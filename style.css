@@ -851,7 +851,7 @@ button:focus {
 	display: inline;
 	float: left;
 	padding: 100px 0;
-	width: 100%;
+	width: 300%;
 }
 
 .mu-pricing-conten {
