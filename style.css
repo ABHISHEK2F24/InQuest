@@ -851,14 +851,14 @@ button:focus {
 	display: inline;
 	float: left;
 	padding: 100px 0;
-	width: 300%;
+	width: 100%;
 }
 
 .mu-pricing-conten {
 	display: inline;
 	float: left;
 	margin-top: 50px;
-	width: 100%;
+	width: 300%;
 }
 
 .mu-single-price {
@@ -867,7 +867,7 @@ button:focus {
 	float: left;
 	text-align: left;
 	position: relative;
-	width: 100%;
+	width: 300%;
 	padding: 15px;
 	overflow: hidden;
 }
