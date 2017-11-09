@@ -911,7 +911,7 @@ button:focus {
 }
 
 .mu-single-price ul li{
-	list-style: none;
+	list-style: decimal;
 	color: #555;
 }
 
